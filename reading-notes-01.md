@@ -6,7 +6,7 @@ _This is a place where notes from my class reading will be stored in order to be
 
 **Table of Contents**  
 
-[Reading-02](reading-notes-02.md)  
+[Reading-01](reading-notes-01.md)  
 [Reading-03]()  
 [Reading-04]()  
 [Reading-05]()  
