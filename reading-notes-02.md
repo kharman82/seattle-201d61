@@ -12,7 +12,7 @@
 - `sup` and `sub`  is something new to me but seems to be pretty useful. Sup is used for superscript which would be used for dates and math problems where as sub is for subscript which is commonly found in chemistry formulas.    
   `br /` is for line breaks  
   `hr /` is for horizontal rules like adding a horizontal line between a paragraph.  
-  `strong` and `em` would be used for getting the readers eyes to specific areas like that might need more attention than most. The <em> emphasis is used to maybe draw attention to a specific word but lightly drawn to the word in italics.  
+  `strong` and `em` would be used for getting the readers eyes to specific areas like that might need more attention than most. The em emphasis is used to maybe draw attention to a specific word but lightly drawn to the word in italics.  
   `blockquote` used for quotes that are longer than normal (i.e extending through an entire paragraph.  
   `q` would be for smaller quote that doesn't take up an entire paragraph.  
   `abbr` speaks for itself for abbreviations.  
