@@ -23,6 +23,11 @@
 -  `s` would be used like when Walmart or any other store does a discount or roll back with a cross out of a previous price.  
   
   ## CSS  
-  - CSS is basically used to give different styling techniques to the web page. You may want to add color to text, change font, color or style the background and so on so forth. You can do a lot with CSS.  
+  - CSS is basically used to give different styling techniques to the web page. You may want to add color to text, change font, color or style the background and so on so forth. You can do a lot with CSS.   
+  
+  ## JS or JavaScript  
+  -  JavaScript is a language that you would use to help get the user to interact with the web page. You can use it for something as simple as putting in information to sign up for a email list. Or even as simple as just answering questions that the designer may be looking for in order to take a pole or track information. You can also use it to count or keep track of traffic or dictate how the end user uses the page depending on the way the questions were answered.   
+  - Honestly I struggle with JS and would like to be more proficient with it.  
+  
 
 
