@@ -1,4 +1,5 @@
-# Reading Notes 03
+# Reading Notes 03  
+[Reading-01](reading-notes.md)
 
 _Types of Lists in HTML / CSS_
 - **Ordered lists** : are lists where each item in the list is.
