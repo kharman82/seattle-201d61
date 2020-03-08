@@ -1,5 +1,7 @@
 # Reading Notes 04
 
+[Reading-01](reading-notes.md)
+
 _Writing Links in HTML / CSS_  
 
 __Linking to other sites__  : Links are created using the `<a>` element which has an attribute called href. The value of the href attribute is the page that you want people to go to when they click on the link. You can also click on the links in between the tags and it will take you to the designated location. You can pretty much link just about anything you want. Page to page or web address to web address.  
