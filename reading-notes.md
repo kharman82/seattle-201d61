@@ -16,7 +16,7 @@ _This is a place where notes from my class reading will be stored in order to be
 [Reading-09](reading-notes-09.md)  
 [Reading-10](reading-notes-10.md)  
 [Reading-11](reading-notes-11.md)  
-[Reading-12]()  
+[Reading-12](reading-notes-12.md)  
 [Reading-13]()  
 [Reading-14]()  
 [Reading-15]()  
